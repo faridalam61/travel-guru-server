@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "category_name": "Cox's Bazar",
+      "description": "Cox's Bazar is a beautiful coastal town located in the Chittagong Division of Bangladesh. It is known for its long sandy beach which stretches for over 120 kilometers and is the longest natural beach in the world. The town is also home to many historical sites, including the Maheshkhali Island, which features ancient Hindu temples.",
+      "image": "https://example.com/coxs_bazar.jpg"
+    },
+    {
+      "id": 2,
+      "category_name": "Sylhet",
+      "description": "Sylhet is a city located in northeastern Bangladesh, known for its rolling hills, tea gardens, and natural beauty. It is home to many historic sites, including the Shrine of Hazrat Shah Jalal, which is one of the most important pilgrimage sites in the country. The city is also known for its vibrant culture and delicious cuisine, including the famous Sylheti biryani.",
+      "image": "https://example.com/sylhet.jpg"
+    },
+    {
+      "id": 3,
+      "category_name": "Dhaka",
+      "description": "Dhaka is the capital and largest city of Bangladesh. It is a bustling metropolis with a rich history and culture. The city is home to many historic sites, including the Lalbagh Fort, the Ahsan Manzil Palace, and the Dhakeshwari Temple. It is also known for its vibrant street markets, delicious street food, and vibrant nightlife.",
+      "image": "https://example.com/dhaka.jpg"
+    },
+    {
+      "id": 4,
+      "category_name": "Rangamati",
+      "description": "Rangamati is a district located in the Chittagong Hill Tracts of Bangladesh. It is known for its stunning natural beauty, including the Kaptai Lake, which is the largest man-made lake in Bangladesh. The district is home to many indigenous communities, and visitors can experience their unique culture and way of life. It is also a great place for outdoor activities such as hiking, boating, and birdwatching.",
+      "image": "https://example.com/rangamati.jpg"
+    }
+  ]
