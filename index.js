@@ -1,9 +1,11 @@
 const express = require('express');
 const categories = require('./categories.json')
 const bookings = require('./bookings.json')
+const cors = require('cors')
 const app = express();
 const PORT = 5000;
 
+app.use(cors());
 app.get('/',(req,res)=>{
  res.send('Server is running')
 })
