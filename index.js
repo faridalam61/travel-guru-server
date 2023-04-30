@@ -2,7 +2,7 @@ const express = require('express');
 const categories = require('./categories.json')
 const bookings = require('./bookings.json')
 const app = express();
-const port = 5000;
+const PORT = 5000;
 
 app.get('/',(req,res)=>{
  res.send('Server is running')
@@ -37,6 +37,6 @@ app.get('/search/:key',(req,res)=>{
 
 
 
-app.listen(port, ()=>{
-    console.log('Server is running at port ', port)
+app.listen(PORT, ()=>{
+    console.log('Server is running at port ', PORT)
 })
